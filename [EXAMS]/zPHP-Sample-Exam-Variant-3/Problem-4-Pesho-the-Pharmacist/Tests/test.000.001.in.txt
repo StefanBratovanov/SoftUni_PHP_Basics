@@ -1,0 +1,1 @@
+today=27%2F08%2F2014&invoices%5B%5D=11%2F05%2F2013+%7C+Sopharma+%7C+Paracetamol+%7C+20.54lv.&invoices%5B%5D=02%2F12%2F2011+%7C+Actavis+%7C+Aulin+%7C+120.54lv.&invoices%5B%5D=13%2F05%2F2009+%7C+Sopharma+%7C+Tamiflu+%7C+221.54lv.&invoices%5B%5D=23%2F01%2F2014+%7C+Actavis+%7C+Paracetamol+%7C+7.54lv.&invoices%5B%5D=11%2F05%2F2013+%7C+Sopharma+%7C+Analgin+%7C+20.54lv.

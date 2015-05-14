@@ -1,0 +1,1 @@
+board=N+I+I+I+%7C+F+0+0+I+%7C+V+0+0+P+%7C+F+S+P+P&beginning=1+4&moves=3+8+12+12+12+8+11

@@ -1,0 +1,1 @@
+today=27%2F08%2F2014&invoices%5B%5D=11%2F05%2F2013%7CSopharma%7CParacetamol%7C20.54lv&invoices%5B%5D=12%2F05%2F2013%7CSopharma%7CParacetamol%7C20.54lv&invoices%5B%5D=13%2F05%2F2013%7CSopharma%7CParacetamol%7C20.54lv

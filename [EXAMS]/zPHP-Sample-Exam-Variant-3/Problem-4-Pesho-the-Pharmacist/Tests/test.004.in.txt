@@ -1,0 +1,1 @@
+today=27%2F08%2F2001&invoices%5B%5D=27%2F08%2F2001+%7C+Sopharma+%7C+Paratsetamol+%7C+11.23lv.&invoices%5B%5D=27%2F08%2F2001+%7C+Sopharma+%7C+Aratsetamol+%7C+31.23lv.&invoices%5B%5D=27%2F08%2F1980+%7C+Sopharma+%7C+Paratsetamol+%7C+11.23lv.&invoices%5B%5D=27%2F08%2F1900+%7C+Sopharma+%7C+Paratsetamol+%7C+11.23lv.

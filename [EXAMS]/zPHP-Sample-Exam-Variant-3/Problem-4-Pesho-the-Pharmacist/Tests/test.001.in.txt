@@ -1,0 +1,1 @@
+today=27%2F08%2F2014&invoices%5B%5D=27%2F08%2F2014+%7C+Actavis+%7C+Aulin+%7C+231.12&invoices%5B%5D=27%2F08%2F2001+%7C+Peshopharm+%7C+Aulin+%7C+232.12&invoices%5B%5D=27%2F08%2F2011+%7C+Peshopharm+%7C+Aulin+%7C+232.12&invoices%5B%5D=27%2F08%2F2014+%7C+Actavis+%7C+Bizelaks+%7C+21.12

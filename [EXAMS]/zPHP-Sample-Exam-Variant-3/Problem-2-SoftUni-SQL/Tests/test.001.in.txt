@@ -1,0 +1,1 @@
+commands%5B%5D=UPDATE+users+SET+%28age+%3D+10%29+WHERE+%28user_id+%3D+1%29&commands%5B%5D=INSERT+INTO+users+%28login%2C+age%2C+gender%29+VALUES+%28user%2C+20%2C+male%29&commands%5B%5D=INSERT+INTO+users+%28user_id%2C+login%2C+age%2C+gender%29+VALUES+%2822%2C+user%2C+20%2C+male%29
